@@ -2,7 +2,7 @@
 
 ## Gereksinimler
 1. **Kayıt:**  Kullanıcıların e-posta ve telefon numarası ile kayıt olmalarının sağlanması.
-2. **Giriş:** Kullanıcıların e-posta ve telefon numarası ile giriş olmalarının sağlanması.
+2. **Giriş:** Kullanıcıların e-posta ve telefon numarası ile giriş yapmalarının sağlanması.
 3. **Mesaj Gönderme:**  Metin, emoji, resim, video ve ses mesajları gönderme ve alma imkanının sunulması.
 4. **Grup Oluşturma:** Kullanıcının sohbet grubu oluşturmasına izin verilmesi.
 5. **Gruba Katılımcı Ekleme:** Belirlenen gruba katılımcı ekleme özelliğinin oluşturulması.
