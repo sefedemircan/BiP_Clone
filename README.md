@@ -13,9 +13,9 @@
 **Proje Ekibi:** Sadık Efecan Demircan
 1. [Proje Planı]()
 2. [Gereksinim  Analizi](https://github.com/sefedemircan/BiP_Clone/blob/main/gereksinimAnalizi.md)
-3. [Durum Diyagramı]()
-4. [Durum Senaryoları]()
-5. [Veritabanı Diyagramı]()
+3. [Durum Diyagramı](https://github.com/sefedemircan/BiP_Clone/blob/main/durumDiyagrami.md)
+4. [Durum Senaryoları](https://github.com/sefedemircan/BiP_Clone/blob/main/durumSenaryolari.md)
+5. [Veritabanı Diyagramı](https://github.com/sefedemircan/BiP_Clone/blob/main/veritabaniDiyagrami.md)
 6. [Front-End]()
 7. [Back-End]()
 8. [Test]()
