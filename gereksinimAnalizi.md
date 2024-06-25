@@ -14,3 +14,4 @@
 11. **Sohbet Geçmişini Arama:** Kullanıcıların sohbet geçmişine göre mesajlar içinde filtreleme yaparak istenilen mesaja ulaşabilmesi.
 12. **Mesaj Yıldızlama:** Kullanıcıların sohbette yer alan mesajları yıldızlama özelliği ile yıldızlı mesajlar bölümünde tutabilmesi.
 13. **Profil Düzenleme:** Kullanıcıların kendilerine ait profillerinde; profil fotoğrafı düzenleme, durum mesajı belirleme özelliklerinin sağlanması.
+14. **Kendine Mesaj Gönderme:** Kullanıcı sohbet listesinden kendini seçerek kendine mesaj gönderebilmesi.
