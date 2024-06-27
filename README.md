@@ -6,7 +6,7 @@
 
 **Referans Uygulama:** [https://web.bip.com](https://web.bip.com)
 
-**Uygulama Adresi:** -
+**Uygulama Adresi:** - [http://mechat.trizglobal.com.tr/](http://mechat.trizglobal.com.tr/)
 
 **Grup Adı:** f(e)
 
@@ -19,5 +19,5 @@
 6. [Front-End]()
 7. [Back-End]()
 8. [Test]()
-9. [Geliştirici ve Kullanıcı Dokümantasyonları]()
+9. [Geliştirici ve Kullanıcı Dokümantasyonları](https://github.com/sefedemircan/BiP_Clone/blob/main/documentation.md)
 
