@@ -16,7 +16,7 @@
 3. [Durum Diyagramı](https://github.com/sefedemircan/BiP_Clone/blob/main/durumDiyagrami.md)
 4. [Durum Senaryoları](https://github.com/sefedemircan/BiP_Clone/blob/main/durumSenaryolari.md)
 5. [Veritabanı Diyagramı](https://github.com/sefedemircan/BiP_Clone/blob/main/veritabaniDiyagrami.md)
-6. [Front-End]()
+6. [Front-End](https://github.com/sefedemircan/BiP_Clone/blob/main/frontend.md)
 7. [Back-End]()
 8. [Test]()
 9. [Geliştirici ve Kullanıcı Dokümantasyonları](https://github.com/sefedemircan/BiP_Clone/blob/main/documentation.md)
