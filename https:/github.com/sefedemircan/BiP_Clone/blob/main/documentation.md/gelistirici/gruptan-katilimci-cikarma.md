@@ -1,2 +1,0 @@
-# Gruptan Katılımcı Çıkarma
-
